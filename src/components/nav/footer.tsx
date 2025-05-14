@@ -3,12 +3,10 @@ import {
   Twitter,
   Instagram,
   Linkedin,
-  Youtube,
   MessageSquare,
   Mail,
   Phone,
   MapPin,
-  Heart,
 } from "lucide-react";
 
 const Footer = () => {
