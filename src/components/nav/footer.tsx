@@ -22,7 +22,8 @@ const Footer = () => {
               Namevise
             </h3>
             <p className="text-gray-300">
-              Building the future with innovative solutions that matter.
+              Building the future with innovative solutions that matter for your
+              business domain.
             </p>
             <div className="flex space-x-4">
               <a
